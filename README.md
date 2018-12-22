@@ -10,4 +10,4 @@ spring-boot-starter-data-redis，spring data mongodb，spring data elasticsearch
 
 使用spring webflux，spring-boot-starter-data-mongodb-reactive 开发shop-order项目，完成响应式流项目的开发
 
-完全可以基于此项目在企业中开发手脚架
+完全可以基于此项目在企业中开发运行

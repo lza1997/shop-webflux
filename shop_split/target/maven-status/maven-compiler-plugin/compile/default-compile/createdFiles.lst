@@ -1,0 +1,5 @@
+com\lza\controller\SpitController.class
+com\lza\pojo\Spit.class
+com\lza\service\SpitService.class
+com\lza\MongoApplication.class
+com\lza\dao\SpitDao.class

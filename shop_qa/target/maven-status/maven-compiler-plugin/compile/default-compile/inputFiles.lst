@@ -1,0 +1,11 @@
+G:\shop-webflux\shop_qa\src\main\java\com\lza\service\ProblemService.java
+G:\shop-webflux\shop_qa\src\main\java\com\lza\controller\ProblemController.java
+G:\shop-webflux\shop_qa\src\main\java\com\lza\controller\BaseExceptionHandler.java
+G:\shop-webflux\shop_qa\src\main\java\com\lza\Feign\shopBaseFeign.java
+G:\shop-webflux\shop_qa\src\main\java\com\lza\service\ReplyService.java
+G:\shop-webflux\shop_qa\src\main\java\com\lza\controller\ReplyController.java
+G:\shop-webflux\shop_qa\src\main\java\com\lza\dao\ProblemDao.java
+G:\shop-webflux\shop_qa\src\main\java\com\lza\dao\ReplyDao.java
+G:\shop-webflux\shop_qa\src\main\java\com\lza\pojo\Reply.java
+G:\shop-webflux\shop_qa\src\main\java\com\lza\ShopQaApplication.java
+G:\shop-webflux\shop_qa\src\main\java\com\lza\pojo\Problem.java

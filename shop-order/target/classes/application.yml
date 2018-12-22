@@ -1,0 +1,24 @@
+
+server:
+  port: 9006
+spring:
+  application:
+    name: shop-order
+  data:
+    mongodb:
+      host: 192.168.14.128
+      database: spitdb
+#  redis:
+#    host: 192.168.14.128
+#    port: 16380
+#  rabbitmq:
+#    host: 192.168.154.128
+#    port:  5672
+#    username: guest
+#    password: guest
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://127.0.0.1:8761/eureka/
+#  instance:
+#    prefer-ip-address: true

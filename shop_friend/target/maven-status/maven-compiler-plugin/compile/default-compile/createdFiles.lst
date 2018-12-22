@@ -1,0 +1,10 @@
+com\lza\dao\FriendDao.class
+com\lza\service\FriendService.class
+com\lza\Feign\UserClient.class
+com\lza\entity\Friend.class
+com\lza\interceptor\JwtInterceptor.class
+com\lza\entity\NoFriend.class
+com\lza\config\InterceptorConfig.class
+com\lza\dao\NoFriendDao.class
+com\lza\ShopfriendApplication.class
+com\lza\controller\friendCtroller.class

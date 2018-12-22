@@ -1,0 +1,14 @@
+com\lza\pojo\Reply.class
+com\lza\dao\ProblemDao.class
+com\lza\service\ProblemService.class
+com\lza\dao\ReplyDao.class
+com\lza\Feign\shopBaseFeign$shopBaseFeignFallbcak.class
+com\lza\controller\BaseExceptionHandler.class
+com\lza\controller\ReplyController.class
+com\lza\Feign\shopBaseFeign.class
+com\lza\service\ReplyService.class
+com\lza\pojo\Problem.class
+com\lza\ShopQaApplication.class
+com\lza\controller\ProblemController.class
+com\lza\service\ProblemService$1.class
+com\lza\service\ReplyService$1.class

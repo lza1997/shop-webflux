@@ -1,0 +1,5 @@
+com\lza\service\ArticleService.class
+com\lza\dao\ArticleDao.class
+com\lza\pojo\Article.class
+com\lza\SearchApplication.class
+com\lza\controller\ArticleController.class

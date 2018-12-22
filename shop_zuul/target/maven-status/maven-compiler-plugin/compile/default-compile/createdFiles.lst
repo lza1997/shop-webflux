@@ -1,0 +1,5 @@
+com\lza\Fiter\RateFilter.class
+com\lza\Fiter\zuulFilter.class
+com\lza\ZuulApplication.class
+com\lza\Fiter\RateFilter$RateException.class
+com\lza\Fiter\jwttokenFilter.class
